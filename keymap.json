@@ -83,7 +83,7 @@
             // misc
             "space b d": "pane::CloseActiveItem",
             "space /": "pane::DeploySearch",
-            "space f g": "text_finder::Toggle",
+            "space s g": "text_finder::Toggle",
             "space space": "file_finder::Toggle",
             "space c a": "editor::ToggleCodeActions",
             "space c r": "editor::Rename",
