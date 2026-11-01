@@ -4,8 +4,6 @@
         "context": "VimControl && !menu",
         "bindings": {
             "space": null,
-            "s": "vim::HelixJumpToWord",
-            "f": "vim::HelixJumpToWord"
         }
     },
     {
