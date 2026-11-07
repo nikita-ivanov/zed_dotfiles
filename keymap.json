@@ -105,7 +105,7 @@
             "space c": "project_panel::CollapseAllEntries",
             "space n": "project_panel::NewFile",
             "space r": "project_panel::Rename",
-            "space d": "project_panel::Delete"
+            "space d": "project_panel::Trash"
         }
     },
 ]
